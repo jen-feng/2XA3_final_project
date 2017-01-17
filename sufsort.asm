@@ -1,5 +1,7 @@
-%include "asm_io.inc"
+; author: Jenny Feng Chen
+; date: 12/15/2016
 
+%include "asm_io.inc"
 
 SECTION .data
 print: db "sorted suffixes:",10,0
