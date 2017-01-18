@@ -6,10 +6,11 @@ make all
 sufsort xxxx
 
 make clean
-
+
+
 
 
 
 discription: xxxx -> should be any number consisting 0,1,2
  
-             make clean -> clean up the file when "make all" made
+             make clean -> clean up the files that "make all" made
